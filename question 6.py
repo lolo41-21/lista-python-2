@@ -4,5 +4,5 @@ for i in range(1, 21):
 i = 1
 
 while i <= 20:
-    print(i, end=' ')
+    print(i)
     i += 1
